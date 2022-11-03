@@ -1,2 +1,2 @@
 Java Special Topics:
-DateTime -> toString; Convert; Calculatioin
+DateTime -> toString; Convert; Calculation
